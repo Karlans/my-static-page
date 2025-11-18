@@ -1,0 +1,2 @@
+# my-static-page
+staticlog
